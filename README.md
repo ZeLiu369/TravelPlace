@@ -3,7 +3,8 @@ author@Ze Liu
 # [Video Presentation](https://youtu.be/V97tfhFN_DM)
 
 # TravelPlace
-A full-stack project have place to travel. Allow sign up &amp; in users to CRUD own posts and reviews.. The front-end use Bootstrap including CSS to organize.
+This full-stack project features travel destinations and allows registered users to CRUD their own posts images, and reviews.
+
 ## Homepage
 ![image](https://user-images.githubusercontent.com/32544961/123673947-a0e4d500-d81b-11eb-8076-f748182eadc7.png)
 
@@ -21,7 +22,7 @@ Users can send a new post and also upload images.
 
 
 ## Update Post
-Including delete images.
+Including deleted images.
 
 ![image](https://user-images.githubusercontent.com/90260431/189530137-897297df-5514-4532-8c5e-0a490c8a59bf.png)
 
